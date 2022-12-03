@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 """
-Works with both python2 & python3 - Created by BigBen BenTech Security +97431000704
+Created by BigBen BenTech Security +97431000704
 """
 
 from sys import argv
